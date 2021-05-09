@@ -1,7 +1,7 @@
 # Search Engine Response Page
 
 ## Demo
-[https://agitated-kirch-8767cd.netlify.app](https://agitated-kirch-8767cd.netlify.app)
+[https://awesome-mestorf-f36572.netlify.app/?](https://awesome-mestorf-f36572.netlify.app/?)
 
 SERP is a Trie + levenshtein distance based, mobile-ready, localstorage run, bootstrap - Jquery powered Search engine response page which comes with default dataset of some marvel characters and lets you add/index your own entries and stores them on browser's localstorage for you to use later. Keep in mind, it doesn't have a backend and hence any entry made will only be available on same device (just trying to display search capabilties using pure javascript)
 
